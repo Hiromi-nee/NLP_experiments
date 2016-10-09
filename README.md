@@ -6,10 +6,8 @@ English text processing
 ## jp_textprocessing
 Japanese text processing
 
-- 
-å
-£
-°
-å
-„
-ªnickname manipulation and analysis
+- å£°å„ª nickname manipulation and analysis
+
+### TODO
+
+- Nickname generator
